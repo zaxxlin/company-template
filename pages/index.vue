@@ -12,8 +12,8 @@
           :descriptions ( Descriptions )
         -->
         <HeaderContent 
-          imgURL="/img/slider1.jpeg"
-          header_txt="Company Template by LEAD"
+          imgURL="https://ttgasia.2017.ttgasia.com/wp-content/uploads/sites/2/2020/05/Petronas-Twin-Towers-in-Kuala-Lumpur.jpg"
+          header_txt="Company Template by ZAXX"
           second_header="Second Header"
           descriptions="Header Descriptions"
         ></HeaderContent>
